@@ -65,7 +65,7 @@ jupyter nbconvert --to notebook --execute train.ipynb
 ## Compute scaling factors
 You can either use the precomputed scaling_factors (in scaling_factors.json) or compute them yourself by running fit_scaling.py. Scaling factors are used to ensure a consistent scale of activations at initialization. They are the same for all GemNet variants.
 
-## Contact
+<!-- ## Contact
 Please contact j.gasteiger@in.tum.de if you have any questions.
 
 ## Cite
@@ -91,4 +91,4 @@ Please cite our papers if you use the model or this code in your own work:
 	year = {2022},
 	pages = {045010},
 }
-```
+``` -->
